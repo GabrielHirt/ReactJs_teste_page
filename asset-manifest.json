@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60e44540.css",
+    "main.js": "/static/js/main.709d08e8.js",
+    "static/media/01.gif": "/static/media/01.d4a20334cef1cc7d73c4.gif",
+    "static/media/prop1.gif": "/static/media/prop1.285fdf0c9a65e778c174.gif",
+    "static/media/prop2.gif": "/static/media/prop2.d508c17332a042433052.gif",
+    "static/media/1.jpg": "/static/media/1.39337dcdc9eb7f7eb43a.jpg",
+    "static/media/Spotify-gif-logo.gif": "/static/media/Spotify-gif-logo.e13f56cfc0c814f1dcec.gif",
+    "static/media/banner.png": "/static/media/banner.17f50b9fd3a80f64e659.png",
+    "static/media/05.gif": "/static/media/05.8a7a1941cd4b555a1a04.gif",
+    "static/media/08.gif": "/static/media/08.d893bb4e7fa9c188e415.gif",
+    "static/media/background.jpg": "/static/media/background.ef319d91585ea56ff953.jpg",
+    "static/media/cart.png": "/static/media/cart.fa16b7957f25bbfce222.png",
+    "static/media/pendente.png": "/static/media/pendente.b84c0b5434c271fbe7a8.png",
+    "static/media/user.png": "/static/media/user.a6143582309785dca610.png",
+    "static/media/whats.png": "/static/media/whats.fdd4b7007148bcf6ce48.png",
+    "static/media/email.png": "/static/media/email.f8dfbe8b0875e9328ff2.png",
+    "static/media/pen.png": "/static/media/pen.f3135066fd9bfa643314.png",
+    "static/media/Battle.svg": "/static/media/Battle.219af92cf9b1d1c80bbe.svg",
+    "index.html": "/index.html",
+    "main.60e44540.css.map": "/static/css/main.60e44540.css.map",
+    "main.709d08e8.js.map": "/static/js/main.709d08e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e44540.css",
+    "static/js/main.709d08e8.js"
+  ]
+}
